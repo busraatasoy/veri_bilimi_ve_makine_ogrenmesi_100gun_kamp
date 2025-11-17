@@ -1,6 +1,6 @@
 # 📊 Veri Bilimi ve Makine Öğrenmesi 2025: 100 Günlük Kamp
 
-Bu depo, [Atıl Samancıoğlu](https://www.udemy.com/user/atil-samancioglu/) tarafından Udemy'de sunulan **“Veri Bilimi ve Makine Öğrenmesi 2025: 100 Günlük Kamp”** eğitimine ait kişisel günlük notları, örnek çözümleri ve projeleri içermektedir.
+Bu depo, [Atıl Samancıoğlu](https://www.udemy.com/user/atil-samancioglu/) tarafından Udemy'de sunulan [**“Veri Bilimi ve Makine Öğrenmesi 2025: 100 Günlük Kamp”**](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/?couponCode=LETSLEARNNOWTR) eğitimine ait kişisel günlük notları, örnek çözümleri ve projeleri içermektedir.
 
 Her gün Colab ve diğer IDE ortamında hazırlanan uygulamalar, açıklamalı notlar ve mini projeler düzenli olarak bu GitHub reposuna aktarılmaktadır.
 
