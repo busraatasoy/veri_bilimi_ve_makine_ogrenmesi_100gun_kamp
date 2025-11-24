@@ -30,7 +30,7 @@ konularında kapsamlı bir gelişim süreci sunar.
 | 2   | [Day_02](Day_02/Day_02.ipynb) | Veri Tipleri (sayı, int, float, string vb.) |
 | 3   | [Day_03](Day_03/Day_03.ipynb) | Veri Yapıları (index, slicing, liste, tip dönüşümleri) |
 | 4   | [Day_04](Day_04/Day_04.ipynb) | Sözlük, set, tuple, bool |
-| 5   | [Day_05](Day_05.ipynb) | 10 sorudan oluşan Quiz çalışması |
+| 5   | [Day_05](Day_05/Day_05.ipynb) | 10 sorudan oluşan Quiz çalışması |
 | 6   | [Day_06](Day_06.ipynb) | Kontroller (If, elif, else yapısı) ve Döngüler (for, break, continue, pass yapısı) |
 | 7   | [Day_07](Day_07.ipynb) | Döngüler (while), İleri seviye işlemler(f-string, Built-in Functions, Built-in Module, List Comprehension) |
 | 8   | [Day_08](Day_08.ipynb) | 10 sorudan oluşan Quiz-2 çalışması |
