@@ -34,8 +34,8 @@ konularında kapsamlı bir gelişim süreci sunar.
 | 6   | [Day_06](Day_06/Day_06.ipynb) | Kontroller (If, elif, else yapısı) ve Döngüler (for, break, continue, pass yapısı) |
 | 7   | [Day_07](Day_07/Day_07.ipynb) | Döngüler (while), İleri seviye işlemler(f-string, Built-in Functions, Built-in Module, List Comprehension) |
 | 8   | [Day_08](Day_08/Day_08.ipynb) | 10 sorudan oluşan Quiz-2 çalışması |
-| 9   | [Day_09](Day_09.ipynb) | Fonksiyonlar, Map, Filter, Lambda Kullanımı, Fonksiyonel Kapsam (Scope), LEGB Kuralı|
-| 10  | [Day_10](Day_10.ipynb) | Sınıflar(Classes), Sınıf Örnekleri|
+| 9   | [Day_09](Day_09/Day_09.ipynb) | Fonksiyonlar, Map, Filter, Lambda Kullanımı, Fonksiyonel Kapsam (Scope), LEGB Kuralı|
+| 10  | [Day_10](Day_10/Day_10.ipynb) | Sınıflar(Classes), Sınıf Örnekleri|
 | 11  | [Day_11_1](Day_11_1.ipynb) |OOP – Nesne Yönelimli Programlama Nedir?, Inheritance, Polymorphism, Encapsulation, Abstraction|
 | 11  | [Day_11_2](Day_11_2.ipynb) |Özel Methodlar, Hatalar, Dosyalar, Type Annotation|
 | 12  | [Day_12](Day_12.ipynb) |10 sorudan oluşan Quiz-3 çalışması |
